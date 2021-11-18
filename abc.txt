@@ -1,3 +1,5 @@
 Iam abc.txt
 
 Developer B changes:  I am cde.txt, changed by developer
+
+Developer C Changes: I am zef.txt, changed by tester
